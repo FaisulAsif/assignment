@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding: 0;
+    overflow: hidden;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    padding-top: 20px;
+}
+.footer{
+    background-color: #f8f9fa;
+    padding: 10px 0;
+    text-align: center;
+}
